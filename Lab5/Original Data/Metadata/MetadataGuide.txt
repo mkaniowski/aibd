@@ -1,0 +1,2 @@
+Original data earthquake_data.csv is in /OriginalData folder
+Post analysis data is available in /AnalysisData driectory
